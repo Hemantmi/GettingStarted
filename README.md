@@ -1,2 +1,0 @@
-# GettingStarted
-Lets get started
